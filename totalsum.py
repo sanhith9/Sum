@@ -1,2 +1,4 @@
 n = 25
-print(sum(i for i in range(1,25,2)))
+m = 87
+print(sum(i for i in range(1,n,2)))
+print(max(n,m))
